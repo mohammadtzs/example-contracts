@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
-- Ensure you have [Node.js](https://nodejs.org/en/download/prebuilt-installer) and [npm](https://www.npmjs.com/)
+- Ensure you have [Node.js](https://nodejs.org/en/download/prebuilt-installer) and [npm](https://www.npmjs.com/).
   installed on your computer.
 
 ## Step-by-Step Guide
